@@ -1,0 +1,16 @@
+.Pop-Up{
+    background-color: aqua;
+    position:absolute;
+    z-index: 1000
+}
+.Pop-Up-Align{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:100vw
+}
+.Pop-Up-heading{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
